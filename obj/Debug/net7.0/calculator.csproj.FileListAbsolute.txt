@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\bin\Debug\net7.0\calculator.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\bin\Debug\net7.0\calculator.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\bin\Debug\net7.0\calculator.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\bin\Debug\net7.0\calculator.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\calculator.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\calculator.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\refint\calculator.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\calculator.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\calculator\obj\Debug\net7.0\ref\calculator.dll
